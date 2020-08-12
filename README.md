@@ -1,4 +1,4 @@
-### Hi there 👋
+### Well met 👋
 ### My name is Oles Gedz, I working in computer graphics ⚡
 
 <!--
