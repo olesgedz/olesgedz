@@ -1,4 +1,5 @@
 ### Hi there 👋
+### My name is Oles Gedz, I working in computer graphics ⚡
 
 <!--
 **olesgedz/olesgedz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![image](https://github.com/olesgedz/olesgedz/blob/master/dino.gif)
+
+[![olesgedz's github stats](https://github-readme-stats.vercel.app/api?username=olesgedz&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/olesgedz/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olesgedz&repo=Scop&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/olesgedz/Scop)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olesgedz&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=olesgedz&label=PROFILE+VIEWS&style=flat-square)
