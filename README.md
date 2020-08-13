@@ -1,5 +1,5 @@
 ### Well met 👋
-### My name is Oles Gedz, I working in computer graphics ⚡
+### My name is Oles Gedz, I'm working in computer graphics ⚡
 
 <!--
 **olesgedz/olesgedz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
