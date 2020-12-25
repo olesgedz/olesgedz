@@ -23,4 +23,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olesgedz&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
+
+[![jblack-b's stats](https://badge42.herokuapp.com/api/stats/jblack-b?cursus=42)](https://github.com/olesgedz/olesgedz/edit/master/README.md)
+<br>
 ![](https://komarev.com/ghpvc/?username=olesgedz&label=PROFILE+VIEWS&style=flat-square)
