@@ -27,4 +27,3 @@ Here are some ideas to get you started:
 [![jblack-b's stats](https://badge42.herokuapp.com/api/stats/jblack-b?cursus=42cursus)](https://github.com/olesgedz/olesgedz/edit/master/README.md)
 <br>
 ![](https://komarev.com/ghpvc/?username=olesgedz&label=PROFILE+VIEWS&style=flat-square)
-!
