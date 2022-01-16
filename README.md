@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olesgedz&repo=gbmu&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/olesgedz/gbmu)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olesgedz&repo=Scop&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/olesgedz/Scop)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olesgedz&repo=RT&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/olesgedz/RT)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olesgedz&repo=ft_vox&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/olesgedz/ft_vox)
 
 ![olesgedz's github stats](https://github-readme-stats.vercel.app/api?username=olesgedz&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
