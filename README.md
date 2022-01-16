@@ -16,17 +16,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![image](https://github.com/olesgedz/olesgedz/blob/master/shader.gif)
+<!-- 
+github_dark 
+&theme=radical -->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olesgedz&repo=gbmu&show_icons=true&theme=github_dark)](https://github.com/olesgedz/gbmu)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olesgedz&repo=Scop&show_icons=tru&theme=github_dark)](https://github.com/olesgedz/Scop)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olesgedz&repo=RT&show_icons=true&theme=github_dark)](https://github.com/olesgedz/RT)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olesgedz&repo=ft_vox&show_icons=true&theme=github_dark)](https://github.com/olesgedz/ft_vox)
 
+![olesgedz's github stats](https://github-readme-stats.vercel.app/api?username=olesgedz&count_private=true&show_icons=true&theme=github_dark)
 
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olesgedz&repo=gbmu&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/olesgedz/gbmu)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olesgedz&repo=Scop&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/olesgedz/Scop)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olesgedz&repo=RT&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/olesgedz/RT)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olesgedz&repo=ft_vox&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/olesgedz/ft_vox)
-
-![olesgedz's github stats](https://github-readme-stats.vercel.app/api?username=olesgedz&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olesgedz&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olesgedz&show_icons=true&theme=github_dark)
 [![jblack-b's stats](https://badge42.herokuapp.com/api/stats/jblack-b?cursus=42cursus)](https://github.com/olesgedz/olesgedz/edit/master/README.md)
 <br>
 ![](https://komarev.com/ghpvc/?username=olesgedz&label=PROFILE+VIEWS&style=flat-square)
