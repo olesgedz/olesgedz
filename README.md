@@ -17,10 +17,12 @@ Here are some ideas to get you started:
 -->
 ![image](https://github.com/olesgedz/olesgedz/blob/master/shader.gif)
 
-![olesgedz's github stats](https://github-readme-stats.vercel.app/api?username=olesgedz&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olesgedz&repo=gbmu&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/olesgedz/gbmu)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olesgedz&repo=Scop&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/olesgedz/Scop)
+
+![olesgedz's github stats](https://github-readme-stats.vercel.app/api?username=olesgedz&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olesgedz&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 [![jblack-b's stats](https://badge42.herokuapp.com/api/stats/jblack-b?cursus=42cursus)](https://github.com/olesgedz/olesgedz/edit/master/README.md)
