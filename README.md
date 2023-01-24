@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 <!-- 
 github_dark 
 &theme=radical -->
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olesgedz&repo=gbmu&show_icons=true&theme=github_dark)](https://github.com/olesgedz/gbmu)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olesgedz&repo=Scop&show_icons=tru&theme=github_dark)](https://github.com/olesgedz/Scop)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olesgedz&repo=RT&show_icons=true&theme=github_dark)](https://github.com/olesgedz/RT)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olesgedz&repo=ft_vox&show_icons=true&theme=github_dark)](https://github.com/olesgedz/ft_vox)
+[![ReadMe Card](https://stats-bed1-7lfbfkabb-olesgedz.vercel.app/api/pin/?username=olesgedz&repo=gbmu&show_icons=true&theme=github_dark)](https://github.com/olesgedz/gbmu)
+[![ReadMe Card](https://stats-bed1-7lfbfkabb-olesgedz.vercel.app/api/pin/?username=olesgedz&repo=Scop&show_icons=tru&theme=github_dark)](https://github.com/olesgedz/Scop)
+[![ReadMe Card](https://stats-bed1-7lfbfkabb-olesgedz.vercel.app/api/pin/?username=olesgedz&repo=RT&show_icons=true&theme=github_dark)](https://github.com/olesgedz/RT)
+[![ReadMe Card](https://stats-bed1-7lfbfkabb-olesgedz.vercel.app/api/pin/?username=olesgedz&repo=ft_vox&show_icons=true&theme=github_dark)](https://github.com/olesgedz/ft_vox)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olesgedz&show_icons=true&theme=github_dark) 
-![olesgedz's github stats](https://github-readme-stats.vercel.app/api?username=olesgedz&count_private=true&show_icons=true&theme=github_dark)
+![Top Langs](https://stats-bed1-7lfbfkabb-olesgedz.vercel.app/api/top-langs/?username=olesgedz&show_icons=true&theme=github_dark) 
+![olesgedz's github stats](https://stats-bed1-7lfbfkabb-olesgedz.vercel.app/api?username=olesgedz&count_private=true&show_icons=true&theme=github_dark)
 
 [![jblack-b's 42 stats](https://badge42.vercel.app/api/v2/cl1luezu6001109l92q7make0/stats?cursusId=21&coalitionId=39)](https://github.com/JaeSeoKim/badge42)
 
