@@ -25,6 +25,7 @@ github_dark
 [![ReadMe Card](https://stats-mi41.vercel.app/api/pin/?username=olesgedz&repo=ft_vox&show_icons=true&theme=github_dark)](https://github.com/olesgedz/ft_vox)
 
 ![Top Langs](https://stats-mi41.vercel.app/api/top-langs/?username=olesgedz&show_icons=true&theme=github_dark) 
+
 ![olesgedz's github stats](https://stats-mi41.vercel.app/api?username=olesgedz&count_private=true&show_icons=true&theme=github_dark)
 
 [![jblack-b's 42 stats](https://badge42.vercel.app/api/v2/cl1luezu6001109l92q7make0/stats?cursusId=21&coalitionId=39)](https://github.com/JaeSeoKim/badge42)
