@@ -20,20 +20,20 @@ Here are some ideas to get you started:
 <!-- 
 github_dark 
 &theme=radical -->
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olesgedz&repo=gbmu&show_icons=true&theme=github_dark)](https://github.com/olesgedz/gbmu)
+[![ReadMe Card](https://stats-gedz.vercel.app/api/pin/?username=olesgedz&repo=gbmu&show_icons=true&theme=github_dark)](https://github.com/olesgedz/gbmu)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olesgedz&repo=scop&show_icons=true&theme=github_dark)](https://github.com/olesgedz/scop)
+[![ReadMe Card](https://stats-gedz.vercel.app/api/pin/?username=olesgedz&repo=scop&show_icons=true&theme=github_dark)](https://github.com/olesgedz/scop)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olesgedz&repo=RT&show_icons=true&theme=github_dark)](https://github.com/olesgedz/RT)
+[![ReadMe Card](https://stats-gedz.vercel.app/api/pin/?username=olesgedz&repo=RT&show_icons=true&theme=github_dark)](https://github.com/olesgedz/RT)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olesgedz&repo=ft_vox&show_icons=true&theme=github_dark)](https://github.com/olesgedz/ft_vox)
+[![ReadMe Card](https://stats-gedz.vercel.app/api/pin/?username=olesgedz&repo=ft_vox&show_icons=true&theme=github_dark)](https://github.com/olesgedz/ft_vox)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olesgedz&show_icons=true&theme=github_dark)
+![Anurag's GitHub stats](https://stats-gedz.vercel.app/api?username=olesgedz&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olesgedz&show_icons=true&theme=github_dark) 
+![Top Langs](https://stats-gedz.vercel.app/api/top-langs/?username=olesgedz&show_icons=true&theme=github_dark) 
 
-![olesgedz's github stats](https://github-readme-stats.vercel.app/api?username=olesgedz&count_private=true&show_icons=true&theme=github_dark)
+![olesgedz's github stats](https://stats-gedz.vercel.app/api?username=olesgedz&count_private=true&show_icons=true&theme=github_dark)
 
 ![](https://komarev.com/ghpvc/?username=olesgedz&label=PROFILE+VIEWS&style=flat-square) 
 
