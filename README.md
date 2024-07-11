@@ -22,11 +22,11 @@ github_dark
 &theme=radical -->
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olesgedz&repo=gbmu&show_icons=true&theme=github_dark)](https://github.com/olesgedz/gbmu)
 
-[![ReadMe Card](https:/github-readme-stats.vercel.app/api/pin/?username=olesgedz&repo=Scop&show_icons=tru&theme=github_dark)](https://github.com/olesgedz/Scop)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olesgedz&repo=scop&show_icons=true&theme=github_dark)](https://github.com/olesgedz/scop)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olesgedz&repo=RT&show_icons=true&theme=github_dark)](https://github.com/olesgedz/RT)
 
-[![ReadMe Card](https:/github-readme-stats.vercel.app/api/pin/?username=olesgedz&repo=ft_vox&show_icons=true&theme=github_dark)](https://github.com/olesgedz/ft_vox)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olesgedz&repo=ft_vox&show_icons=true&theme=github_dark)](https://github.com/olesgedz/ft_vox)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olesgedz&show_icons=true&theme=github_dark)
