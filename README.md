@@ -28,9 +28,9 @@ github_dark
 
 [![ReadMe Card](https://stats-gedz.vercel.app/api/pin/?username=olesgedz&repo=ft_vox&show_icons=true&theme=github_dark)](https://github.com/olesgedz/ft_vox)
 
-![Top Langs](https://stats-gedz.vercel.app/api/top-langs/?username=olesgedz&show_icons=true&count_private=true&theme=github_dark) 
+![Top Langs](https://stats-gedz.vercel.app/api/top-langs/?username=olesgedz&show_icons=true&layout=donut&langs_count=10&size_weight=0.5&count_weight=0.5&count_private=true&theme=github_dark&hide=javascript,objective-c,makefile,html,purebasic,php,java,kotlin,shell)
 
-![olesgedz's github stats](https://stats-gedz.vercel.app/api?username=olesgedz&layout=donut&count_private=true&langs_count=8&size_weight=0.5&count_weight=0.5&show_icons=true&theme=github_dark)
+![olesgedz's github stats](https://stats-gedz.vercel.app/api?username=olesgedz&show_icons=true&theme=github_dark)
 
 ![](https://komarev.com/ghpvc/?username=olesgedz&label=PROFILE+VIEWS&style=flat-square) 
 
