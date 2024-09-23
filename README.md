@@ -28,7 +28,7 @@ github_dark
 
 [![ReadMe Card](https://stats-gedz.vercel.app/api/pin/?username=olesgedz&repo=ft_vox&show_icons=true&theme=github_dark)](https://github.com/olesgedz/ft_vox)
 
-![Top Langs](https://stats-gedz.vercel.app/api/top-langs/?username=olesgedz&show_icons=true&theme=github_dark) 
+![Top Langs](https://stats-gedz.vercel.app/api/top-langs/?username=olesgedz&show_icons=true&count_private=true&theme=github_dark) 
 
 ![olesgedz's github stats](https://stats-gedz.vercel.app/api?username=olesgedz&count_private=true&show_icons=true&theme=github_dark)
 
