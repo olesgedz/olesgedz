@@ -22,6 +22,8 @@ github_dark
 &theme=radical -->
 [![ReadMe Card](https://stats-gedz.vercel.app/api/pin/?username=olesgedz&repo=gbmu&show_icons=true&theme=github_dark)](https://github.com/olesgedz/gbmu)
 
+[![ReadMe Card](https://stats-gedz.vercel.app/api/pin/?username=olesgedz&repo=2dRendererLua&show_icons=true&theme=github_dark)](https://github.com/olesgedz/2dRendererLua)
+
 [![ReadMe Card](https://stats-gedz.vercel.app/api/pin/?username=olesgedz&repo=scop&show_icons=true&theme=github_dark)](https://github.com/olesgedz/scop)
 
 [![ReadMe Card](https://stats-gedz.vercel.app/api/pin/?username=olesgedz&repo=RT&show_icons=true&theme=github_dark)](https://github.com/olesgedz/RT)
