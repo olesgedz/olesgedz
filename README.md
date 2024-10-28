@@ -36,4 +36,4 @@ github_dark
 
 ![](https://komarev.com/ghpvc/?username=olesgedz&label=PROFILE+VIEWS&style=flat-square) 
 
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/olesgedz?theme=dark&font=Farsan&ext=heatmap)
