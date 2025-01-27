@@ -21,15 +21,12 @@ Here are some ideas to get you started:
 github_dark 
 &theme=radical -->
 [![ReadMe Card](https://stats-gedz.vercel.app/api/pin/?username=olesgedz&repo=gbmu&show_icons=true&theme=github_dark)](https://github.com/olesgedz/gbmu)
-
 [![ReadMe Card](https://stats-gedz.vercel.app/api/pin/?username=olesgedz&repo=2dRendererLua&show_icons=true&theme=github_dark)](https://github.com/olesgedz/2dRendererLua)
 
 [![ReadMe Card](https://stats-gedz.vercel.app/api/pin/?username=olesgedz&repo=RoguelikeRust&show_icons=true&theme=github_dark)](https://github.com/olesgedz/RoguelikeRust)
-
 [![ReadMe Card](https://stats-gedz.vercel.app/api/pin/?username=olesgedz&repo=scop&show_icons=true&theme=github_dark)](https://github.com/olesgedz/scop)
 
 [![ReadMe Card](https://stats-gedz.vercel.app/api/pin/?username=olesgedz&repo=RT&show_icons=true&theme=github_dark)](https://github.com/olesgedz/RT)
-
 [![ReadMe Card](https://stats-gedz.vercel.app/api/pin/?username=olesgedz&repo=ft_vox&show_icons=true&theme=github_dark)](https://github.com/olesgedz/ft_vox)
 
 ![Top Langs](https://stats-gedz.vercel.app/api/top-langs/?username=olesgedz&show_icons=true&layout=donut&langs_count=10&size_weight=0.5&count_weight=0.5&count_private=true&theme=github_dark&hide=javascript,objective-c,makefile,html,purebasic,php,java,kotlin,shell)
